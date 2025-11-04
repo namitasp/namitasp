@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a results-driven techno-functional leader with over 14 years of experience in software development, specializing in delivering scalable, innovative solutions that bridge business needs and technical execution. With expertise in PaaS, Java, Python, NiFi-ETL, Kafka, Big Data, and Cloud Computing, I lead cross-functional teams to drive impactful results, ensuring seamless platform development, optimization, and continuous integration.
+I am a results-driven techno-functional leader with over 15 years of experience in software development, specializing in delivering scalable, innovative solutions that bridge business needs and technical execution. With expertise in PaaS, Java, Python, NiFi-ETL, Kafka, Big Data, and Cloud Computing, I lead cross-functional teams to drive impactful results, ensuring seamless platform development, optimization, and continuous integration.
 
 I excel in leading teams through the complete project lifecycle—from platform architecture and cloud solutions to data migration, ETL workflows, and microservices development in AWS environments. Known for my strong strategic leadership, I ensure project goals are met through effective communication, decision-making, and problem-solving, adapting to changing requirements with ease.
 
